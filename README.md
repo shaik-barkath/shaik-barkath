@@ -45,6 +45,7 @@
 <br />
 <br />
 
+## About me :
 
 - 🏢 Full Stack Intern at Kodnest
 - 🏫 2023 graduate with a Bachelor's in Computer Science Engineering from VTU Karnataka
