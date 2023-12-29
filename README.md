@@ -43,5 +43,5 @@
 - 🏢 Full Stack Intern at Kodnest Technologies
 - 🏫 2023 graduate with a Bachelor's in Computer Science Engineering from VTU Karnataka
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/shail-barkath)
--👦 Pronouns: He/Him
+- 👦 Pronouns: He/Him
 
