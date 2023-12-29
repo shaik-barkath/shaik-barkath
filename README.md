@@ -27,7 +27,6 @@
 </a>
 
 <br/>
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
@@ -48,5 +47,9 @@
 
 - 🏢 Full Stack Intern at Kodnest
 - 🏫 2023 graduate with a Bachelor's in Computer Science Engineering from VTU Karnataka
+- 👀 I’m interested in Web Development, Java Programming and Open Source.
+- 💬 I would love to talk about internship and job opportunities.
+- 💞️ I’m looking to collaborate on any open source platform.
+- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/shail-barkath)
 
