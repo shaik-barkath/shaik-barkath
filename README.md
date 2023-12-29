@@ -38,6 +38,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
 <br />
+<br />
 
 - 🏢 Full Stack Intern at Kodnest Technologies
 - 🏫 2023 graduate with a Bachelor's in Computer Science Engineering from VTU Karnataka
