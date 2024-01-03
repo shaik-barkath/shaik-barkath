@@ -47,7 +47,7 @@
 
 ## About me :
 
-- 🏢 Full Stack Intern at Kodnest
+- 🏢 Full Stack Intern at Kodnest.
 - 🏫 2023 graduate with a Bachelor's in Computer Science Engineering from VTU Karnataka
 - 👀 I’m interested in Web Development, Java Programming and Open Source.
 - 💬 I would love to talk about internship and job opportunities.
