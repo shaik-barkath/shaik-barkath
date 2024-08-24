@@ -59,5 +59,5 @@
 - 👀 I’m interested in Java Programming, Web Development and Open Source.
 - 💬 I would love to talk about internship and job opportunities.
 - 📚 I'm looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
-- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/shail-barkath)
+- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/shaik-barkath/)
 
