@@ -51,7 +51,7 @@
 <br />
 <br />
 
-## About me:
+### About me:
 
 - 🏢 I am a Software Engineer at MTitans Software Sdn Bhd
 - 🏫 Graduate with a Bachelor's in Computer Science Engineering from Visvesvaraya Technological University (VTU)
