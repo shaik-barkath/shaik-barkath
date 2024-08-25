@@ -1,7 +1,6 @@
 ### Hey there :wave:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Barkath+ulla)](https://git.io/typing-svg)
-
 #### Glad to see you here :heart:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-barkath&label=Views&color=blue&style=plastic" alt="Barkath" /> </p>
