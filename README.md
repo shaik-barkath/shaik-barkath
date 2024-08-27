@@ -48,6 +48,8 @@
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" style="padding-right:10px;" />
 <img align="left" alt="DBeaver" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" style="padding-right:10px;" />
 <img align="left" alt="DBeaver" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;" />
+<img align="left" alt="DBeaver" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+
 
 <br />
 <br />
