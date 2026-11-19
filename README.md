@@ -14,19 +14,7 @@
   
 <a href="https://www.instagram.com/shaik_barkath_07/">
   <kbd>
-    <img align="center" alt="Barkath's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
-  </kbd>
-</a>
-  
-<a href="https://twitter.com/Barkath_says">
-  <kbd>
-    <img align="center" alt="Barkath's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
-  </kbd>
-</a>
- 
-<a href="https://t.me/Shaik_Barkath">
-  <kbd>
-    <img align="center" alt="Barkath's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
+    <img align="center" alt="Barkath's Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/E4405F" />
   </kbd>
 </a>
    
