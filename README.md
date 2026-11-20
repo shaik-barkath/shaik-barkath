@@ -48,6 +48,5 @@
 - 💻 I build enterprise applications using Java, Spring Boot, Spring MVC, Hibernate, and SQL
 - 🏫 Graduate with a Bachelor's in Computer Science Engineering from Visvesvaraya Technological University (VTU)
 - 👀 I'm interested in Java Programming, Web Development, and Open Source
-- 💬 I would love to talk about internship and job opportunities
 - 📚 I'm looking forward to enhancing my knowledge by learning new skills and growing in the tech field
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/shaik-barkath/)
