@@ -44,9 +44,10 @@
 
 ### About me:
 
-- 🏢 I am a Java Software Developer at MTitans Software Sdn Bhd
+- 🏢 I am a Java Software Developer at MTitans Software Sdn Bhd with 2+ years of experience
+- 💻 I build enterprise applications using Java, Spring Boot, Spring MVC, Hibernate, and SQL
 - 🏫 Graduate with a Bachelor's in Computer Science Engineering from Visvesvaraya Technological University (VTU)
-- 👀 I’m interested in Java Programming, Web Development, and Open Source.
-- 💬 I would love to talk about internship and job opportunities.
-- 📚 I'm looking forward to enhancing my knowledge by learning new skills and growing in the tech field.
+- 👀 I'm interested in Java Programming, Web Development, and Open Source
+- 💬 I would love to talk about internship and job opportunities
+- 📚 I'm looking forward to enhancing my knowledge by learning new skills and growing in the tech field
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/shaik-barkath/)
